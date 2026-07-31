@@ -1,0 +1,3 @@
+Python Versioning Project
+Key feature: SHA256 integrity check.
+new version added 
